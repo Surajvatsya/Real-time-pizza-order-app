@@ -1,0 +1,5 @@
+Create directory structure 
+create a npm project and install all dependencies
+create express server(app.js)
+create home page using HTML,CSS 
+create cart page
