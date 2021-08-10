@@ -5,7 +5,8 @@ const app = express();
 const path = require('path');
 const port = process.env.PORT || 3000;
 
-
+//assets
+app.use(express.static(path.join(__dirname, 'public')))
 //set template engine
 // app.use(expressLayout);
 app.set('views',path.join(__dirname,'/resources/views'));
