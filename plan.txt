@@ -3,3 +3,7 @@ create a npm project and install all dependencies
 create express server(app.js)
 create home page using HTML,CSS 
 create cart page
+move routes to routes file
+create controllers 
+Database connection
+axios to send ajax req
